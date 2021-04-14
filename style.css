@@ -175,3 +175,31 @@
     height: 50px;
     margin: 10px;
 }
+
+/* Footer */
+.footer-container {
+    display: flex;
+    border: 2px solid black;
+    box-sizing: border-box;
+    height: 500px;
+    width: auto;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.footer-col1 {
+    width: 20%;
+    background-color: red;
+}
+.footer-col2 {
+    width: 20%;
+    background-color: yellow;
+}
+.footer-col3 {
+    width: 30%;
+    background-color: green;
+}
+.footer-col4 {
+    width: 30%;
+    background-color: blue;
+}
